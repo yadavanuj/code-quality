@@ -1,10 +1,12 @@
 package com.agiledcoders.observer;
 
 public class ObserverImpl implements Observer<String> {
-    private static int id;
+    private static int count;
+
+    private final int id;
 
     public ObserverImpl() {
-        id = id + 1;
+        id = count++;
     }
 
     @Override
