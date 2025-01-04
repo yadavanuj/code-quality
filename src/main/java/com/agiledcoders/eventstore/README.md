@@ -1,0 +1,1 @@
+# Sample for Observer extended to become a generalized event store or notification center
