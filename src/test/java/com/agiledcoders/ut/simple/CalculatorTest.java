@@ -1,4 +1,4 @@
-package com.agiledcoders.mockito;
+package com.agiledcoders.ut.simple;
 
 import org.junit.jupiter.api.Test;
 
