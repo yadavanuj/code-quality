@@ -1,4 +1,4 @@
-package com.agiledcoders.mockito;
+package com.agiledcoders.ut.simple;
 
 public class Calculator {
     private MathService mathService;
