@@ -1,4 +1,4 @@
-package com.agiledcoders.ut.simple;
+package com.agiledcoders.ut.mock;
 
 import org.junit.jupiter.api.Test;
 

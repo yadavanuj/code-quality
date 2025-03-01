@@ -1,4 +1,4 @@
-package com.agiledcoders.ut.simple;
+package com.agiledcoders.ut.mock;
 
 public class Calculator {
     private MathService mathService;
